@@ -1,0 +1,2 @@
+Version: 4.7.0
+  - Versão atualizada por Diego Vidal
